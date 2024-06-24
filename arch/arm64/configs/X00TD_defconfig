@@ -1,4 +1,4 @@
-CONFIG_LOCALVERSION="-SkyWalker-サイセイ-Saisei-EAS"
+CONFIG_LOCALVERSION="-𝗕𝗔𝗞𝗖𝗛𝗢𝗗𝗜 -𝗘𝗔𝗦 𝗴𝗮𝘆𝗦𝗨"
 # CONFIG_LOCALVERSION_AUTO is not set
 # CONFIG_USELIB is not set
 CONFIG_NO_HZ=y
